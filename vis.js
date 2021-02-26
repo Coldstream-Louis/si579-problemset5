@@ -1,3 +1,5 @@
+// I used d3.js to create a force directed graph with json format data
+
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
